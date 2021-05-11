@@ -1,0 +1,9 @@
+#
+# fips_fmt
+#
+---
+exports:
+  header-dirs:
+    - fmt
+  modules:
+    fmt: .
