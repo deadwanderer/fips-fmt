@@ -4,6 +4,6 @@
 ---
 exports:
   header-dirs:
-    - fmt
+    - fmt/include
   modules:
     fmt: .
